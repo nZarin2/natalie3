@@ -1,1 +1,0 @@
-localStorage.setItem("catName"," Randall");
